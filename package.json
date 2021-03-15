@@ -1,0 +1,17 @@
+{
+  "name": "-asdf",
+  "version": " ",
+  "description": " ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dbd.js": "^2.1.0"
+  }
+}
