@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dbd.js": "^2.1.0"
+    "dbd.js": "^2.2.5"
   }
 }
