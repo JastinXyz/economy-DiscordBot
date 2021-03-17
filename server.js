@@ -52,9 +52,9 @@ code: command.code
 bot.command({
 
 name: "help",
-code: `$title[$userTag[$clientID] HELP MENU
+code: `$title[$userTag[$clientID] HELP MENU]
 
-**$getServerVar[prefix]help** - This!
+$description[**$getServerVar[prefix]help** - This!
 **$getServerVar[prefix]balance** - Your balance.
 **$getServerVar[prefix]inven** - Your Inventory.
 **$getServerVar[prefix]dep** - Deposit cash to bank.
