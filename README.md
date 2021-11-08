@@ -9,11 +9,7 @@ Economic themed Discord Bot with quite a lot of commands and complete and a syst
 *Video Tutorial: https://youtu.be/-x7S6_G_S3w*
 
 # More
-The API that I use in the code: [![API](https://img.shields.io/badge/API-JastinCh%20API-red)](https://jastinch-api.ml)
 
-Join My Support Server: [![JOIN](https://img.shields.io/badge/Join-Discord%20Server-blue)](https://jastinch-api.ml/discord)
-
-[![Donate](https://img.shields.io/badge/Donate%3F-Click%20Me!-blue)](https://jastinch.xyz/donate.html)
 [![Awesome Badges](https://img.shields.io/badge/Subscribe%20In-Youtube-red)](https://youtube.com/c/JastinCh)
 [![Library DBD.js](https://img.shields.io/badge/Library-DBD.js-blue)](https://dbd.leref.ga)
 ![Jual = Haram](https://img.shields.io/badge/Jual%3F-Haram-red)
