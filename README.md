@@ -17,5 +17,6 @@ Join My Support Server: [![JOIN](https://img.shields.io/badge/Join-Discord%20Ser
 [![Awesome Badges](https://img.shields.io/badge/Subscribe%20In-Youtube-red)](https://youtube.com/c/JastinCh)
 [![Library DBD.js](https://img.shields.io/badge/Library-DBD.js-blue)](https://dbd.leref.ga)
 ![Jual = Haram](https://img.shields.io/badge/Jual%3F-Haram-red)
-[![Shiina#7147](https://img.shields.io/badge/Invite-Shiina%237147-orange)](https://top.gg/bot/802467105345110097)
-[![Unique Bot List](https://img.shields.io/badge/Discord%20Bot%20List%3F-Unique%20Bot%20List-blue)](https://uniqbotlist.ga)
+
+# ><
+follow me pls if u can.
