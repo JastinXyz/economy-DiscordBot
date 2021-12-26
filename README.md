@@ -15,4 +15,4 @@ Economic themed Discord Bot with quite a lot of commands and complete and a syst
 ![Jual = Haram](https://img.shields.io/badge/Jual%3F-Haram-red)
 
 # ><
-follow me pls if u can.
+star the repo pls
