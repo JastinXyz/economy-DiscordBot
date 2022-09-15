@@ -55,7 +55,7 @@ name: "help",
 code: `$title[$userTag[$clientID] HELP MENU]
 
 $description[**$getServerVar[prefix]help** - This!
-**$getServerVar[prefix]balance** - Your balance.
+**$getServerVar[prefix]balance** - Số dư của bạn
 **$getServerVar[prefix]inven** - Your Inventory.
 **$getServerVar[prefix]dep** - Deposit cash to bank.
 **$getServerVar[prefix]with** - Withdraw bank to cash.
